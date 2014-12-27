@@ -6,7 +6,7 @@ package: Core
 # version: VERSION
 # core: 8.x
 libraries:
-  - bartik/base
+  - bartik/global-styling
 ckeditor_stylesheets:
   - css/ckeditor-iframe.css
 regions:
@@ -30,11 +30,8 @@ regions:
   footer_fourthcolumn: 'Footer fourth column'
   footer: Footer
 
-settings:
-  shortcut_module_link: false
-
-# Information added by Drupal.org packaging script on 2014-11-12
-version: '8.0.0-beta3'
+# Information added by Drupal.org packaging script on 2014-12-17
+version: '8.0.0-beta4'
 core: '8.x'
 project: 'drupal'
-datestamp: 1415797567
+datestamp: 1418825451
