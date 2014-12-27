@@ -1,5 +1,5 @@
 {
-  "name": "drupal/drupal",
+  "name": "hechoendrupal/drupal",
   "description": "Drupal is an open source content management platform powering millions of websites and applications.",
   "type": "drupal-core",
   "license": "GPL-2.0+",
