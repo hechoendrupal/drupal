@@ -8,7 +8,12 @@ package: Core
 libraries:
   - bartik/global-styling
 ckeditor_stylesheets:
-  - css/ckeditor-iframe.css
+  - css/base/elements.css
+  - css/base/typography.css
+  - css/components/captions.css
+  - css/components/content.css
+  - css/components/list.css
+  - css/components/table.css
 regions:
   header: Header
   primary_menu: 'Primary menu'
@@ -16,7 +21,6 @@ regions:
   help: Help
   page_top: 'Page top'
   page_bottom: 'Page bottom'
-  highlighted: Highlighted
   featured: Featured
   content: Content
   sidebar_first: 'Sidebar first'
@@ -30,8 +34,8 @@ regions:
   footer_fourthcolumn: 'Footer fourth column'
   footer: Footer
 
-# Information added by Drupal.org packaging script on 2014-12-17
-version: '8.0.0-beta4'
+# Information added by Drupal.org packaging script on 2015-01-28
+version: '8.0.0-beta6'
 core: '8.x'
 project: 'drupal'
-datestamp: 1418825451
+datestamp: 1422443984

@@ -11,10 +11,10 @@ libraries:
  - seven/global-styling
 stylesheets-override:
   - css/components/vertical-tabs.css
-  - css/components/jquery.ui.theme.css
+  - css/components/jquery.ui/theme.css
   - css/components/dialog.theme.css
 stylesheets-remove:
-  - jquery.ui.dialog.css
+  - dialog.css
 quickedit_stylesheets:
   - css/components/quickedit.css
 regions:
@@ -26,8 +26,8 @@ regions:
 regions_hidden:
   - sidebar_first
 
-# Information added by Drupal.org packaging script on 2014-12-17
-version: '8.0.0-beta4'
+# Information added by Drupal.org packaging script on 2015-01-28
+version: '8.0.0-beta6'
 core: '8.x'
 project: 'drupal'
-datestamp: 1418825451
+datestamp: 1422443984

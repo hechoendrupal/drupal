@@ -15,8 +15,8 @@ stylesheets-remove:
   - base-add.sub-remove.css
   - base-override.sub-remove.css
 
-# Information added by Drupal.org packaging script on 2014-12-17
-version: '8.0.0-beta4'
+# Information added by Drupal.org packaging script on 2015-01-28
+version: '8.0.0-beta6'
 core: '8.x'
 project: 'drupal'
-datestamp: 1418825451
+datestamp: 1422443984
